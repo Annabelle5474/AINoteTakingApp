@@ -45,3 +45,10 @@ Future features to be released:
 - Nicholas Wang
 - Yi Yun Khor
 - Naveen Prabakar
+
+- Special Thanks to:
+- Md Rasel Khondokar, my TA at Iowa State University.
+- Simanta Mitra, my Professor at Iowa State University.
+
+## Project Status
+Still ongoing as of May 2025.
