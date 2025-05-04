@@ -46,7 +46,7 @@ Future features to be released:
 - Yi Yun Khor
 - Naveen Prabakar
 
-- Special Thanks to:
+Special Thanks to:
 - Md Rasel Khondokar, my TA at Iowa State University.
 - Simanta Mitra, my Professor at Iowa State University.
 
